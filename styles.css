@@ -31,8 +31,8 @@ body {
 div {
   width: 100px;
   height: 100px;
-  background-color: aqua;
   position: relative;
+  background-color: red;
   animation-name: first;
   animation-duration: 4s;
 }
