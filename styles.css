@@ -13,18 +13,30 @@ body {
   25% {
     left: 25px;
     top: 25px;
+    right: 0px;
+    bottom: 0px;
   }
 
   50% {
     bottom: 25px;
+    left: 25;
+    top: 25px;
+    right: 0px;
   }
 
   75% {
     right: 25px;
+    bottom: 25px;
+    left: 25;
+    top: 25px;
   }
 
   100% {
     background-color: red;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
   }
 }
 
