@@ -29,6 +29,8 @@ body {
 }
 
 div {
+  width: 100px;
+  height: 100px;
   background-color: aqua;
   position: relative;
   animation-name: first;
